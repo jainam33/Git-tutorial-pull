@@ -1,6 +1,7 @@
 This is version 1 of my project
-he i am jd
+This is addded at bugfix
 this is from master 2
+
 
 
 
